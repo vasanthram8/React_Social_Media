@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Made a video about Tesla Q1 results"
+    },
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "datetime": "July 02, 2021 11:17:36 AM",
+      "body": "Made a video about BMW Q1 results"
+    },
+    {
+      "id": 3,
+      "title": "My Third Post",
+      "datetime": "July 03, 2021 11:17:36 AM",
+      "body": "Made a video about Ferrari Q1 results"
+    },
+    {
+      "id": 4,
+      "title": "My Four Post",
+      "datetime": "July 04, 2021 11:17:36 AM",
+      "body": "Made a video about Tata Q1 results"
+    },
+    {
+      "id": 5,
+      "title": "vasanth",
+      "datetime": "May 21, 2024 9:45:38 PM",
+      "body": "how are you"
+    }
+  ]
+}
